@@ -1,0 +1,17 @@
+blockquote {
+    font-family: Oldtown, fantasy;
+	font-size:12px;
+}
+
+p + p {
+	text-indent: 2em;
+}
+
+p{
+    margin-top:0;
+    margin-bottom:0
+}
+
+blockquote p {
+  text-indent: 0;
+}
